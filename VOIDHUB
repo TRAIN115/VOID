@@ -10,6 +10,7 @@ local E6 = Instance.new("TextButton")
 local DG = Instance.new("UIDragDetector")
 
 DG.Parent = F1
+SG.ResetOnSpawn = false
 
 SG.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 F1.Parent = SG
