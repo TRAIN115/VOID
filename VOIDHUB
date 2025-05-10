@@ -18,6 +18,7 @@ F1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 F1.BorderSizePixel = 2
 F1.Position = UDim2.new(0,360, 0, 250)
 F1.Size = UDim2.new(0, 417, 0, 279)
+F1.ResetOnSpawn = false
 
 VG.Parent = F1
 VG.BackgroundColor3 = Color3.fromRGB(31,31,31)
